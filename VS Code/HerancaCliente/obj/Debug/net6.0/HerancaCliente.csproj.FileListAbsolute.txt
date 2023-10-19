@@ -1,0 +1,45 @@
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\HerancaCliente\bin\Debug\net6.0\HerancaCliente.exe
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\HerancaCliente\bin\Debug\net6.0\HerancaCliente.deps.json
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\HerancaCliente\bin\Debug\net6.0\HerancaCliente.runtimeconfig.json
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\HerancaCliente\bin\Debug\net6.0\HerancaCliente.dll
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\HerancaCliente\bin\Debug\net6.0\HerancaCliente.pdb
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\HerancaCliente\obj\Debug\net6.0\HerancaCliente.csproj.AssemblyReference.cache
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\HerancaCliente\obj\Debug\net6.0\HerancaCliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\HerancaCliente\obj\Debug\net6.0\HerancaCliente.AssemblyInfoInputs.cache
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\HerancaCliente\obj\Debug\net6.0\HerancaCliente.AssemblyInfo.cs
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\HerancaCliente\obj\Debug\net6.0\HerancaCliente.csproj.CoreCompileInputs.cache
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\HerancaCliente\obj\Debug\net6.0\HerancaCliente.dll
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\HerancaCliente\obj\Debug\net6.0\refint\HerancaCliente.dll
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\HerancaCliente\obj\Debug\net6.0\HerancaCliente.pdb
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\HerancaCliente\obj\Debug\net6.0\HerancaCliente.genruntimeconfig.cache
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\HerancaCliente\obj\Debug\net6.0\ref\HerancaCliente.dll
+D:\_Tecnicas Avançadas\POO\HerancaCliente\bin\Debug\net6.0\HerancaCliente.exe
+D:\_Tecnicas Avançadas\POO\HerancaCliente\bin\Debug\net6.0\HerancaCliente.deps.json
+D:\_Tecnicas Avançadas\POO\HerancaCliente\bin\Debug\net6.0\HerancaCliente.runtimeconfig.json
+D:\_Tecnicas Avançadas\POO\HerancaCliente\bin\Debug\net6.0\HerancaCliente.dll
+D:\_Tecnicas Avançadas\POO\HerancaCliente\bin\Debug\net6.0\HerancaCliente.pdb
+D:\_Tecnicas Avançadas\POO\HerancaCliente\obj\Debug\net6.0\HerancaCliente.csproj.AssemblyReference.cache
+D:\_Tecnicas Avançadas\POO\HerancaCliente\obj\Debug\net6.0\HerancaCliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Tecnicas Avançadas\POO\HerancaCliente\obj\Debug\net6.0\HerancaCliente.AssemblyInfoInputs.cache
+D:\_Tecnicas Avançadas\POO\HerancaCliente\obj\Debug\net6.0\HerancaCliente.AssemblyInfo.cs
+D:\_Tecnicas Avançadas\POO\HerancaCliente\obj\Debug\net6.0\HerancaCliente.csproj.CoreCompileInputs.cache
+D:\_Tecnicas Avançadas\POO\HerancaCliente\obj\Debug\net6.0\HerancaCliente.dll
+D:\_Tecnicas Avançadas\POO\HerancaCliente\obj\Debug\net6.0\refint\HerancaCliente.dll
+D:\_Tecnicas Avançadas\POO\HerancaCliente\obj\Debug\net6.0\HerancaCliente.pdb
+D:\_Tecnicas Avançadas\POO\HerancaCliente\obj\Debug\net6.0\HerancaCliente.genruntimeconfig.cache
+D:\_Tecnicas Avançadas\POO\HerancaCliente\obj\Debug\net6.0\ref\HerancaCliente.dll
+D:\Repositorio\Language C#\POO - VSCODE\POO\HerancaCliente\bin\Debug\net6.0\HerancaCliente.exe
+D:\Repositorio\Language C#\POO - VSCODE\POO\HerancaCliente\bin\Debug\net6.0\HerancaCliente.deps.json
+D:\Repositorio\Language C#\POO - VSCODE\POO\HerancaCliente\bin\Debug\net6.0\HerancaCliente.runtimeconfig.json
+D:\Repositorio\Language C#\POO - VSCODE\POO\HerancaCliente\bin\Debug\net6.0\HerancaCliente.dll
+D:\Repositorio\Language C#\POO - VSCODE\POO\HerancaCliente\bin\Debug\net6.0\HerancaCliente.pdb
+D:\Repositorio\Language C#\POO - VSCODE\POO\HerancaCliente\obj\Debug\net6.0\HerancaCliente.csproj.AssemblyReference.cache
+D:\Repositorio\Language C#\POO - VSCODE\POO\HerancaCliente\obj\Debug\net6.0\HerancaCliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio\Language C#\POO - VSCODE\POO\HerancaCliente\obj\Debug\net6.0\HerancaCliente.AssemblyInfoInputs.cache
+D:\Repositorio\Language C#\POO - VSCODE\POO\HerancaCliente\obj\Debug\net6.0\HerancaCliente.AssemblyInfo.cs
+D:\Repositorio\Language C#\POO - VSCODE\POO\HerancaCliente\obj\Debug\net6.0\HerancaCliente.csproj.CoreCompileInputs.cache
+D:\Repositorio\Language C#\POO - VSCODE\POO\HerancaCliente\obj\Debug\net6.0\HerancaCliente.dll
+D:\Repositorio\Language C#\POO - VSCODE\POO\HerancaCliente\obj\Debug\net6.0\refint\HerancaCliente.dll
+D:\Repositorio\Language C#\POO - VSCODE\POO\HerancaCliente\obj\Debug\net6.0\HerancaCliente.pdb
+D:\Repositorio\Language C#\POO - VSCODE\POO\HerancaCliente\obj\Debug\net6.0\HerancaCliente.genruntimeconfig.cache
+D:\Repositorio\Language C#\POO - VSCODE\POO\HerancaCliente\obj\Debug\net6.0\ref\HerancaCliente.dll

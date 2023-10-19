@@ -1,0 +1,30 @@
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\ComposicaoNotaFiscal\bin\Debug\net6.0\ComposicaoNotaFiscal.exe
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\ComposicaoNotaFiscal\bin\Debug\net6.0\ComposicaoNotaFiscal.deps.json
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\ComposicaoNotaFiscal\bin\Debug\net6.0\ComposicaoNotaFiscal.runtimeconfig.json
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\ComposicaoNotaFiscal\bin\Debug\net6.0\ComposicaoNotaFiscal.dll
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\ComposicaoNotaFiscal\bin\Debug\net6.0\ComposicaoNotaFiscal.pdb
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.csproj.AssemblyReference.cache
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.AssemblyInfoInputs.cache
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.AssemblyInfo.cs
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.csproj.CoreCompileInputs.cache
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.dll
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\refint\ComposicaoNotaFiscal.dll
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.pdb
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.genruntimeconfig.cache
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\ref\ComposicaoNotaFiscal.dll
+D:\_Tecnicas Avançadas\POO\ComposicaoNotaFiscal\bin\Debug\net6.0\ComposicaoNotaFiscal.exe
+D:\_Tecnicas Avançadas\POO\ComposicaoNotaFiscal\bin\Debug\net6.0\ComposicaoNotaFiscal.deps.json
+D:\_Tecnicas Avançadas\POO\ComposicaoNotaFiscal\bin\Debug\net6.0\ComposicaoNotaFiscal.runtimeconfig.json
+D:\_Tecnicas Avançadas\POO\ComposicaoNotaFiscal\bin\Debug\net6.0\ComposicaoNotaFiscal.dll
+D:\_Tecnicas Avançadas\POO\ComposicaoNotaFiscal\bin\Debug\net6.0\ComposicaoNotaFiscal.pdb
+D:\_Tecnicas Avançadas\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.csproj.AssemblyReference.cache
+D:\_Tecnicas Avançadas\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Tecnicas Avançadas\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.AssemblyInfoInputs.cache
+D:\_Tecnicas Avançadas\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.AssemblyInfo.cs
+D:\_Tecnicas Avançadas\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.csproj.CoreCompileInputs.cache
+D:\_Tecnicas Avançadas\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.dll
+D:\_Tecnicas Avançadas\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\refint\ComposicaoNotaFiscal.dll
+D:\_Tecnicas Avançadas\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.pdb
+D:\_Tecnicas Avançadas\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\ComposicaoNotaFiscal.genruntimeconfig.cache
+D:\_Tecnicas Avançadas\POO\ComposicaoNotaFiscal\obj\Debug\net6.0\ref\ComposicaoNotaFiscal.dll

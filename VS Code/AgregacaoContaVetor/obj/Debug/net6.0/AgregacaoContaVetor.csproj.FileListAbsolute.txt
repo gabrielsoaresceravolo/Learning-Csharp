@@ -1,0 +1,30 @@
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgregacaoContaVetor\bin\Debug\net6.0\AgregacaoContaVetor.exe
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgregacaoContaVetor\bin\Debug\net6.0\AgregacaoContaVetor.deps.json
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgregacaoContaVetor\bin\Debug\net6.0\AgregacaoContaVetor.runtimeconfig.json
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgregacaoContaVetor\bin\Debug\net6.0\AgregacaoContaVetor.dll
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgregacaoContaVetor\bin\Debug\net6.0\AgregacaoContaVetor.pdb
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgregacaoContaVetor\obj\Debug\net6.0\AgregacaoContaVetor.csproj.AssemblyReference.cache
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgregacaoContaVetor\obj\Debug\net6.0\AgregacaoContaVetor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgregacaoContaVetor\obj\Debug\net6.0\AgregacaoContaVetor.AssemblyInfoInputs.cache
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgregacaoContaVetor\obj\Debug\net6.0\AgregacaoContaVetor.AssemblyInfo.cs
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgregacaoContaVetor\obj\Debug\net6.0\AgregacaoContaVetor.csproj.CoreCompileInputs.cache
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgregacaoContaVetor\obj\Debug\net6.0\AgregacaoContaVetor.dll
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgregacaoContaVetor\obj\Debug\net6.0\refint\AgregacaoContaVetor.dll
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgregacaoContaVetor\obj\Debug\net6.0\AgregacaoContaVetor.pdb
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgregacaoContaVetor\obj\Debug\net6.0\AgregacaoContaVetor.genruntimeconfig.cache
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgregacaoContaVetor\obj\Debug\net6.0\ref\AgregacaoContaVetor.dll
+D:\_Tecnicas Avançadas\POO\AgregacaoContaVetor\bin\Debug\net6.0\AgregacaoContaVetor.exe
+D:\_Tecnicas Avançadas\POO\AgregacaoContaVetor\bin\Debug\net6.0\AgregacaoContaVetor.deps.json
+D:\_Tecnicas Avançadas\POO\AgregacaoContaVetor\bin\Debug\net6.0\AgregacaoContaVetor.runtimeconfig.json
+D:\_Tecnicas Avançadas\POO\AgregacaoContaVetor\bin\Debug\net6.0\AgregacaoContaVetor.dll
+D:\_Tecnicas Avançadas\POO\AgregacaoContaVetor\bin\Debug\net6.0\AgregacaoContaVetor.pdb
+D:\_Tecnicas Avançadas\POO\AgregacaoContaVetor\obj\Debug\net6.0\AgregacaoContaVetor.csproj.AssemblyReference.cache
+D:\_Tecnicas Avançadas\POO\AgregacaoContaVetor\obj\Debug\net6.0\AgregacaoContaVetor.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Tecnicas Avançadas\POO\AgregacaoContaVetor\obj\Debug\net6.0\AgregacaoContaVetor.AssemblyInfoInputs.cache
+D:\_Tecnicas Avançadas\POO\AgregacaoContaVetor\obj\Debug\net6.0\AgregacaoContaVetor.AssemblyInfo.cs
+D:\_Tecnicas Avançadas\POO\AgregacaoContaVetor\obj\Debug\net6.0\AgregacaoContaVetor.csproj.CoreCompileInputs.cache
+D:\_Tecnicas Avançadas\POO\AgregacaoContaVetor\obj\Debug\net6.0\AgregacaoContaVetor.dll
+D:\_Tecnicas Avançadas\POO\AgregacaoContaVetor\obj\Debug\net6.0\refint\AgregacaoContaVetor.dll
+D:\_Tecnicas Avançadas\POO\AgregacaoContaVetor\obj\Debug\net6.0\AgregacaoContaVetor.pdb
+D:\_Tecnicas Avançadas\POO\AgregacaoContaVetor\obj\Debug\net6.0\AgregacaoContaVetor.genruntimeconfig.cache
+D:\_Tecnicas Avançadas\POO\AgregacaoContaVetor\obj\Debug\net6.0\ref\AgregacaoContaVetor.dll

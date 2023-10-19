@@ -1,0 +1,5 @@
+D:\Repositorio\Language C#\POO - VSCODE\POO\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.csproj.AssemblyReference.cache
+D:\Repositorio\Language C#\POO - VSCODE\POO\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio\Language C#\POO - VSCODE\POO\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.AssemblyInfoInputs.cache
+D:\Repositorio\Language C#\POO - VSCODE\POO\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.AssemblyInfo.cs
+D:\Repositorio\Language C#\POO - VSCODE\POO\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.csproj.CoreCompileInputs.cache

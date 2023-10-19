@@ -1,0 +1,30 @@
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgrecacaoConta\bin\Debug\net6.0\AgregacaoConta.exe
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgrecacaoConta\bin\Debug\net6.0\AgregacaoConta.deps.json
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgrecacaoConta\bin\Debug\net6.0\AgregacaoConta.runtimeconfig.json
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgrecacaoConta\bin\Debug\net6.0\AgregacaoConta.dll
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgrecacaoConta\bin\Debug\net6.0\AgregacaoConta.pdb
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgrecacaoConta\obj\Debug\net6.0\AgregacaoConta.csproj.AssemblyReference.cache
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgrecacaoConta\obj\Debug\net6.0\AgregacaoConta.GeneratedMSBuildEditorConfig.editorconfig
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgrecacaoConta\obj\Debug\net6.0\AgregacaoConta.AssemblyInfoInputs.cache
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgrecacaoConta\obj\Debug\net6.0\AgregacaoConta.AssemblyInfo.cs
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgrecacaoConta\obj\Debug\net6.0\AgregacaoConta.csproj.CoreCompileInputs.cache
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgrecacaoConta\obj\Debug\net6.0\AgregacaoConta.dll
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgrecacaoConta\obj\Debug\net6.0\refint\AgregacaoConta.dll
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgrecacaoConta\obj\Debug\net6.0\AgregacaoConta.pdb
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgrecacaoConta\obj\Debug\net6.0\AgregacaoConta.genruntimeconfig.cache
+D:\Disciplinas\AdsAms Tecnicas Avancadas de Programação\POO\POO\AgrecacaoConta\obj\Debug\net6.0\ref\AgregacaoConta.dll
+D:\_Tecnicas Avançadas\POO\AgrecacaoConta\bin\Debug\net6.0\AgregacaoConta.exe
+D:\_Tecnicas Avançadas\POO\AgrecacaoConta\bin\Debug\net6.0\AgregacaoConta.deps.json
+D:\_Tecnicas Avançadas\POO\AgrecacaoConta\bin\Debug\net6.0\AgregacaoConta.runtimeconfig.json
+D:\_Tecnicas Avançadas\POO\AgrecacaoConta\bin\Debug\net6.0\AgregacaoConta.dll
+D:\_Tecnicas Avançadas\POO\AgrecacaoConta\bin\Debug\net6.0\AgregacaoConta.pdb
+D:\_Tecnicas Avançadas\POO\AgrecacaoConta\obj\Debug\net6.0\AgregacaoConta.csproj.AssemblyReference.cache
+D:\_Tecnicas Avançadas\POO\AgrecacaoConta\obj\Debug\net6.0\AgregacaoConta.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Tecnicas Avançadas\POO\AgrecacaoConta\obj\Debug\net6.0\AgregacaoConta.AssemblyInfoInputs.cache
+D:\_Tecnicas Avançadas\POO\AgrecacaoConta\obj\Debug\net6.0\AgregacaoConta.AssemblyInfo.cs
+D:\_Tecnicas Avançadas\POO\AgrecacaoConta\obj\Debug\net6.0\AgregacaoConta.csproj.CoreCompileInputs.cache
+D:\_Tecnicas Avançadas\POO\AgrecacaoConta\obj\Debug\net6.0\AgregacaoConta.dll
+D:\_Tecnicas Avançadas\POO\AgrecacaoConta\obj\Debug\net6.0\refint\AgregacaoConta.dll
+D:\_Tecnicas Avançadas\POO\AgrecacaoConta\obj\Debug\net6.0\AgregacaoConta.pdb
+D:\_Tecnicas Avançadas\POO\AgrecacaoConta\obj\Debug\net6.0\AgregacaoConta.genruntimeconfig.cache
+D:\_Tecnicas Avançadas\POO\AgrecacaoConta\obj\Debug\net6.0\ref\AgregacaoConta.dll
