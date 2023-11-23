@@ -124,7 +124,6 @@ namespace SistemaVendas.CamadaApresentacao
             ProdutoBO itemProduto = new ProdutoBO();
             ProdutoStruct ps = new ProdutoStruct(Convert.ToInt32(txtCodigo.Text), txtNome.Text, Convert.ToDouble(txtPreco.Text), Convert.ToInt32(txtEstoque.Text));
             itemProduto.Editar(ps);
-            itemProduto.Mostrar();
         }
 
         private void btnExcluir_Click(object sender, EventArgs e)
