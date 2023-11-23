@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using MySql.Data.MySqlClient;
 using SistemaVendas.CamadaApresentacao;
 using SistemaVendas.CamadaDados;
 
@@ -21,7 +23,7 @@ namespace SistemaVendas.CamadaNegocio
         }
         public string Inserir(ProdutoStruct prodStruct)
         {
-            Console.WriteLine("nproduto inserir..........");
+            Console.WriteLine("\nInserindo Produto..........\n");
             this.Nomeproduto = prodStruct.Nome;
             this.Precounitario = prodStruct.Preco;
             this.QtdeEstoque = prodStruct.QtdeEstoque;
@@ -32,38 +34,19 @@ namespace SistemaVendas.CamadaNegocio
         {
             return new ProdutoDAO().Mostrar();
         }
-        public DataTable Mostrar()
-        {
-            DataTable DtResultado = new DataTable("Produto");
-            Console.WriteLine("classe de D Mostrar..");
-            MySqlConnection SqlCon = new MySqlConnection();
-            DataSet dataSet;
-            try
-            {
-                MySqlConnection conn = conn = new MySqlConnection("server = localhost; database = dbsiscomercio; uid = root; pwd =; ");
-                //string sqlConsultar = "select * produto where nomeproduto like " + dProduto.Nomeproduto;// + "%'";
-                string sqlConsultar = "select * from produto";
-                Console.WriteLine("SQL.....   " + sqlConsultar);
-                MySqlCommand comando = new MySqlCommand(sqlConsultar, conn);
-                MySqlDataAdapter sqlDat = new MySqlDataAdapter(comando);//passa o resultado para a grid
-                dataSet = new DataSet();
-                //médoto Fill adiciona ou atualiza linhas no DataSet
-                sqlDat.Fill(dataSet);//preenche a grid DtResultado
-                DtResultado = dataSet.Tables[0];
-            }
-            catch (Exception ex)
-            {
-                string resp = "Erro ao salvar!.... " + ex.Message;
-            }
-            finally
-            {
-                if (SqlCon.State == ConnectionState.Open)
-                {
-                    SqlCon.Close();
 
-                }
-            }
-            return DtResultado;
+        public string Editar(ProdutoStruct prodStruct)
+        {
+            this.Idproduto = prodStruct.IdProduto;
+            this.Nomeproduto = prodStruct.Nome;
+            this.Precounitario = prodStruct.Preco;
+            this.QtdeEstoque = prodStruct.QtdeEstoque;
+            return ProdutoDAO.Editar(this);
+        }
+        public string Excluir(int idproduto)
+        {
+            this.Idproduto = idproduto;
+            return ProdutoDAO.Excluir(this);
         }
 
     }

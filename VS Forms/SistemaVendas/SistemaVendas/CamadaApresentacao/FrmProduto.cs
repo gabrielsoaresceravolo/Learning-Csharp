@@ -97,7 +97,13 @@ namespace SistemaVendas.CamadaApresentacao
 
         private void btnInserir_Click_1(object sender, EventArgs e)
         {
-
+            var id = txtCodigo.Text == " " ? Convert.ToInt32(txtCodigo.Text) : 0;
+            ProdutoStruct ps = new ProdutoStruct(id, txtNome.Text, Convert.ToDouble(txtPreco.Text), Convert.ToInt32(txtEstoque.Text));
+            ItemProduto.Inserir(ps);
+            txtCodigo.Text = "";
+            txtNome.Text = "";
+            txtPreco.Text = "";
+            txtEstoque.Text = "";
         }
 
         private void btnFechar_Click(object sender, EventArgs e)
@@ -109,8 +115,22 @@ namespace SistemaVendas.CamadaApresentacao
         {
             ProdutoBO itemProduto = new ProdutoBO();
             this.dataGridView1.DataSource = itemProduto.Mostrar();
-            txtTotalRegistos.Visible = true;
-            txtTotalRegistos.Text = "Total de registros: " + Convert.ToString(dataGridView1.Rows.Count);
+            txtTotalProdutos.Visible = true;
+            txtTotalProdutos.Text = Convert.ToString(dataGridView1.Rows.Count);
+        }
+
+        private void btnAlterar_Click(object sender, EventArgs e)
+        {
+            ProdutoBO itemProduto = new ProdutoBO();
+            ProdutoStruct ps = new ProdutoStruct(Convert.ToInt32(txtCodigo.Text), txtNome.Text, Convert.ToDouble(txtPreco.Text), Convert.ToInt32(txtEstoque.Text));
+            itemProduto.Editar(ps);
+            itemProduto.Mostrar();
+        }
+
+        private void btnExcluir_Click(object sender, EventArgs e)
+        {
+            ProdutoBO itemProduto = new ProdutoBO();
+            itemProduto.Excluir(Convert.ToInt32(txtCodigo.Text));
         }
     }
 }

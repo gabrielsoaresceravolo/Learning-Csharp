@@ -48,6 +48,9 @@
             this.label7 = new System.Windows.Forms.Label();
             this.btnFechar = new FontAwesome.Sharp.IconButton();
             this.txtLinhasTabela = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.txtTotalProdutos = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.panel1.SuspendLayout();
             this.panel3.SuspendLayout();
@@ -81,6 +84,7 @@
             this.btnExcluir.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnExcluir.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnExcluir.UseVisualStyleBackColor = false;
+            this.btnExcluir.Click += new System.EventHandler(this.btnExcluir_Click);
             // 
             // btnAlterar
             // 
@@ -96,6 +100,7 @@
             this.btnAlterar.TabIndex = 17;
             this.btnAlterar.Text = "Alterar";
             this.btnAlterar.UseVisualStyleBackColor = true;
+            this.btnAlterar.Click += new System.EventHandler(this.btnAlterar_Click);
             // 
             // btnConsultar
             // 
@@ -183,7 +188,7 @@
             // txtPreco
             // 
             this.txtPreco.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtPreco.Location = new System.Drawing.Point(19, 377);
+            this.txtPreco.Location = new System.Drawing.Point(19, 367);
             this.txtPreco.Name = "txtPreco";
             this.txtPreco.Size = new System.Drawing.Size(240, 31);
             this.txtPreco.TabIndex = 15;
@@ -220,7 +225,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(14, 349);
+            this.label4.Location = new System.Drawing.Point(14, 339);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(145, 25);
             this.label4.TabIndex = 11;
@@ -299,11 +304,43 @@
             this.txtLinhasTabela.Size = new System.Drawing.Size(0, 25);
             this.txtLinhasTabela.TabIndex = 22;
             // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Location = new System.Drawing.Point(832, 567);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(188, 25);
+            this.label5.TabIndex = 23;
+            this.label5.Text = "Total de Produtos:";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Location = new System.Drawing.Point(1026, 567);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(0, 25);
+            this.label6.TabIndex = 24;
+            // 
+            // txtTotalProdutos
+            // 
+            this.txtTotalProdutos.AutoSize = true;
+            this.txtTotalProdutos.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtTotalProdutos.Location = new System.Drawing.Point(1020, 567);
+            this.txtTotalProdutos.Name = "txtTotalProdutos";
+            this.txtTotalProdutos.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.txtTotalProdutos.Size = new System.Drawing.Size(0, 25);
+            this.txtTotalProdutos.TabIndex = 25;
+            // 
             // FrmProduto
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1259, 613);
+            this.Controls.Add(this.txtTotalProdutos);
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.label5);
             this.Controls.Add(this.txtLinhasTabela);
             this.Controls.Add(this.btnFechar);
             this.Controls.Add(this.label7);
@@ -350,5 +387,8 @@
         private FontAwesome.Sharp.IconButton btnInserir;
         private FontAwesome.Sharp.IconButton btnFechar;
         private System.Windows.Forms.Label txtLinhasTabela;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label txtTotalProdutos;
     }
 }
